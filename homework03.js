@@ -39,3 +39,4 @@ while(i<3){
    i++;
 }
 alert(`number ${i}!`);
+//homework03
